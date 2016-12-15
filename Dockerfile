@@ -1,2 +1,3 @@
-FROM readytalk/nodejs:latest 
+FROM node:latest 
+CMD npm install
 CMD app.js
