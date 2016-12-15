@@ -1,2 +1,2 @@
-FROM readytalk/nodejs:latest
+FROM readytalk/nodejs:latest 
 CMD app.js
